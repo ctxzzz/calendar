@@ -1,0 +1,29 @@
+# Ignore all log files
+*.log
+
+# Ignore all .aux files
+*.aux
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore the build directory
+/build/
+
+# Ignore the dist directory
+/dist/
+
+# Ignore the __pycache__ directory
+/__pycache__/
+
+# Ignore the .env file
+.env
+
+# Ignore the .DS_Store files (macOS specific)
+.DS_Store
+
+/unpackage/
+
+/uni_modeles/
+
+node_modules/

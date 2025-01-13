@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4809687 */
+  src: url('iconfont.ttf?t=1736824015163') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rili-xiangzuo:before {
+  content: "\e84e";
+}
+
+.rili-xiangyou:before {
+  content: "\e84f";
+}
+
+.rili-shuangzizuo:before {
+  content: "\e609";
+}
+
+.rili-jinniuzuo:before {
+  content: "\e60a";
+}
+
+.rili-muyangzuo:before {
+  content: "\e60b";
+}
+
+.rili-shuipingzuo:before {
+  content: "\e600";
+}
+
+.rili-shuangyuzuo:before {
+  content: "\e601";
+}
+
+.rili-mojiezuo:before {
+  content: "\e602";
+}
+
+.rili-chunvzuo:before {
+  content: "\e603";
+}
+
+.rili-shizizuo:before {
+  content: "\e604";
+}
+
+.rili-juxiezuo:before {
+  content: "\e605";
+}
+
+.rili-tianhezuo:before {
+  content: "\e606";
+}
+
+.rili-sheshouzuo:before {
+  content: "\e607";
+}
+
+.rili-tianchengzuo:before {
+  content: "\e608";
+}
+
+.rili-location:before {
+  content: "\e6f8";
+}
+
+.rili-fanhui1:before {
+  content: "\eaf8";
+}
+
+.rili-shijian1:before {
+  content: "\eb18";
+}
+
+.rili-fenxiang:before {
+  content: "\e62c";
+}
+
